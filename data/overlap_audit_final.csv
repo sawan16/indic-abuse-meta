@@ -1,0 +1,10 @@
+unit_a,unit_b,near_dups_x2
+MACD-ta,TamilHS-ta,92
+DCM-ta,MACD-ta,8
+MACD-ta,Uli-ta,2
+DCM-kn,MACD-kn,2
+Uli-hi,Uli-ta,70
+MOLD-mr,MahaHate-mr,8
+DCM-ta,TamilHS-ta,4
+DCM-ml,DCM-ta,2
+MLBH-bn,Romim-bn,2

@@ -1,0 +1,16 @@
+unit_a,unit_b,exact_dups,near_dups_x2
+MLBH-bn,Romim-bn,21549.0,
+Uli-hi,Uli-ta,1.0,
+DCM-kn,DCM-ta,1.0,
+MOLD-mr,MahaHate-mr,15.0,
+MACD-ta,TamilHS-ta,5.0,
+DCM-kn,MACD-kn,3.0,
+MACD-ta,TamilHS-ta,,92.0
+DCM-ta,MACD-ta,,8.0
+MACD-ta,Uli-ta,,2.0
+DCM-kn,MACD-kn,,2.0
+Uli-hi,Uli-ta,,70.0
+MOLD-mr,MahaHate-mr,,8.0
+DCM-ta,TamilHS-ta,,4.0
+DCM-ml,DCM-ta,,2.0
+MLBH-bn,Romim-bn,,24.0
